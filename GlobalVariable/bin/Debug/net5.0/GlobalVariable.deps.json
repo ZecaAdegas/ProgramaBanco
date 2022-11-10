@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GlobalVariable/1.0.0": {
+        "runtime": {
+          "GlobalVariable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalVariable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ContaBancaria/1.0.0": {
+        "dependencies": {
+          "GlobalVariable": "1.0.0"
+        },
+        "runtime": {
+          "ContaBancaria.dll": {}
+        }
+      },
+      "GlobalVariable/1.0.0": {
+        "runtime": {
+          "GlobalVariable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContaBancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GlobalVariable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
