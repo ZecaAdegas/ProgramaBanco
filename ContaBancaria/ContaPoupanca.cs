@@ -10,9 +10,7 @@ namespace ContaBancaria
 {
     class ContaPoupanca : Conta
     {
-        internal int qtContas = 0;
-
-        public ContaPoupanca(string nome, string sobreNome, int genero, string endereco, string codPostal, string localidade)
+        public ContaPoupanca(string nome, string sobreNome, int genero, string endereco, string codPostal, string localidade, int nrConta)
         {
             this.PessoaConta = new ();
             PessoaConta.Nome.PrimeiroNome = nome;
@@ -21,8 +19,11 @@ namespace ContaBancaria
             PessoaConta.Morada.Endereco = endereco;
             PessoaConta.Morada.CodPostal = codPostal;
             PessoaConta.Morada.Localidade = localidade;
-            qtContas++;
-            NrConta = qtContas;         
+            NrConta = nrConta;
+            Saldo = 0;
         }
+    
+    
+
     }
 }

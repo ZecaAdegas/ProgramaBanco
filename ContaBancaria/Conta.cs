@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace ContaBancaria
 {
     abstract class Conta  {
+
         public Pessoa PessoaConta;
 
         public virtual int NrConta { get; set; }

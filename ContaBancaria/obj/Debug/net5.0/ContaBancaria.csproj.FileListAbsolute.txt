@@ -21,3 +21,26 @@ C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\ContaBancaria\obj\Deb
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.deps.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.runtimeconfig.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.runtimeconfig.dev.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.exe
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.exe
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.deps.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.dev.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\ContaBancaria.pdb
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\bin\Debug\net5.0\GlobalVariable.pdb
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CopyComplete
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\refint\ContaBancaria.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll

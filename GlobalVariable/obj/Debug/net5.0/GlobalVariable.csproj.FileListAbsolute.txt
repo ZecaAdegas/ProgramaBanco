@@ -14,3 +14,19 @@ C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\GlobalVariable\obj\De
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\GlobalVariable\obj\Debug\net5.0\GlobalVariable.pdb
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\GlobalVariable\obj\Debug\net5.0\GlobalVariable.genruntimeconfig.cache
 C:\Users\hpaulo\Desktop\Trabalhos e Exercícios\C#\Aula 10\GlobalVariable\obj\Debug\net5.0\ref\GlobalVariable.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.exe
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.deps.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.runtimeconfig.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.runtimeconfig.dev.json
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\bin\Debug\net5.0\GlobalVariable.pdb
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.AssemblyInfo.cs
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\refint\GlobalVariable.dll
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.pdb
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\GlobalVariable.genruntimeconfig.cache
+C:\Users\henri\Desktop\C#\ProgramaBanco\GlobalVariable\obj\Debug\net5.0\ref\GlobalVariable.dll

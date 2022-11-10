@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\ContaBancaria\\ContaBancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\ContaBancaria\\ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\ContaBancaria\\ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\ContaBancaria\\ContaBancaria.csproj",
-        "packagesPath": "C:\\Users\\hpaulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\ContaBancaria\\obj\\",
+        "projectPath": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\ContaBancaria\\ContaBancaria.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\ContaBancaria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hpaulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\GlobalVariable.csproj": {
-                "projectPath": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\GlobalVariable.csproj"
+              "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\GlobalVariable.csproj": {
+                "projectPath": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\GlobalVariable.csproj"
               }
             }
           }
@@ -68,21 +63,17 @@
         }
       }
     },
-    "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\GlobalVariable.csproj": {
+    "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\GlobalVariable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\GlobalVariable.csproj",
+        "projectUniqueName": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\GlobalVariable.csproj",
         "projectName": "GlobalVariable",
-        "projectPath": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\GlobalVariable.csproj",
-        "packagesPath": "C:\\Users\\hpaulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hpaulo\\Desktop\\Trabalhos e Exercícios\\C#\\Aula 10\\GlobalVariable\\obj\\",
+        "projectPath": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\GlobalVariable.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henri\\Desktop\\C#\\ProgramaBanco\\GlobalVariable\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hpaulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +81,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
